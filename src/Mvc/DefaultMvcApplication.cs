@@ -1,4 +1,4 @@
-namespace Mvc
+namespace Transit.Mvc
 {
     using MvcTurbine.ComponentModel;
     using MvcTurbine.StructureMap;

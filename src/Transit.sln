@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvc", "Mvc\Mvc.csproj", "{86A3BD36-9182-4632-A889-A92FBD440527}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApplication", "MvcApplication\MvcApplication.csproj", "{ED7B13FE-1725-4671-BCE4-0736E527CF66}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "Web\Web.csproj", "{ED7B13FE-1725-4671-BCE4-0736E527CF66}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

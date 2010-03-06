@@ -8,8 +8,8 @@
     <ProjectGuid>{86A3BD36-9182-4632-A889-A92FBD440527}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Mvc</RootNamespace>
-    <AssemblyName>Mvc</AssemblyName>
+    <RootNamespace>Transit.Mvc</RootNamespace>
+    <AssemblyName>Transit.Mvc</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

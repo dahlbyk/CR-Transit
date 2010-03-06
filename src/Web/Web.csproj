@@ -8,8 +8,8 @@
     <ProjectTypeGuids>{f85e285d-a4e0-4152-9332-ab1d724d3325};{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MvcApplication</RootNamespace>
-    <AssemblyName>MvcApplication</AssemblyName>
+    <RootNamespace>Transit.Web</RootNamespace>
+    <AssemblyName>Transit.Web</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <MvcBuildViews>false</MvcBuildViews>
   </PropertyGroup>
@@ -87,9 +87,9 @@
     <Content Include="Scripts\jquery.validate.min-vsdoc.js" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MVC\MVC.csproj">
-      <Project>{3059DCCD-AFEC-490E-BDF3-E08DBA238924}</Project>
-      <Name>MVC</Name>
+    <ProjectReference Include="..\Mvc\Mvc.csproj">
+      <Project>{86A3BD36-9182-4632-A889-A92FBD440527}</Project>
+      <Name>Mvc</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />

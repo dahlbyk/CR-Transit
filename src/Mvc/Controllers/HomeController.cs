@@ -1,4 +1,4 @@
-namespace Mvc.Controllers
+namespace Transit.Mvc.Controllers
 {
     using System.Web.Mvc;
 

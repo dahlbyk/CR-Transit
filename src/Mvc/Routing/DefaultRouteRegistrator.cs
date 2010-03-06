@@ -1,4 +1,4 @@
-namespace Mvc.Routing
+namespace Transit.Mvc.Routing
 {
     using System.Web.Mvc;
     using System.Web.Routing;
