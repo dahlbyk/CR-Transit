@@ -1,0 +1,28 @@
+<Stops>
+  <Stop>
+    <Route>R01</Route>
+    <Number>Lot 44</Number>
+    <Direction>out</Direction>
+    <Location>Lot 44 SE</Location>
+    <City>Cedar Rapids</City>
+    <State>IA</State>
+    <Description>concrete pad</Description>
+    <Mile>0.0</Mile>
+    <Latitude>41.96979538</Latitude>
+    <Longitude>-91.66002327</Longitude>
+    <PostalCode>52403</PostalCode>
+  </Stop>
+  <Stop>
+    <Route>R01</Route>
+    <Number>Lot 44</Number>
+    <Direction>out</Direction>
+    <Location>Lot 44 SE</Location>
+    <City>Cedar Rapids</City>
+    <State>IA</State>
+    <Description>concrete pad</Description>
+    <Mile>0.0</Mile>
+    <Latitude>41.96979538</Latitude>
+    <Longitude>-91.66002327</Longitude>
+    <PostalCode>52403</PostalCode>
+  </Stop>
+</Stops>
