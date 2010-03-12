@@ -7,12 +7,12 @@ namespace Transit.Core.Data
 {
     public class XmlStopParser
     {
-        public ILookup<string, IEnumerable<RouteStop>> Parse(XDocument doc)
+        public ILookup<string, IEnumerable<RouteStopInfo>> Parse(XDocument doc)
         {
             var groups = 
                from stop in doc.Element("Stops").Elements("Stop")
                let route = (string)stop.Element("Route")
-               let routeStop = new RouteStop
+               let routeStop = new RouteStopInfo
                {
                    Number = (string)stop.Element("Number"),
                    Direction = (string)stop.Element("Direction"),

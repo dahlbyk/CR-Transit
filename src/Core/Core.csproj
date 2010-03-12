@@ -45,9 +45,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Data\RouteStop.cs">
+    <Compile Include="Data\RouteInfo.cs" />
+    <Compile Include="Data\RouteStopInfo.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Data\XmlRouteParser.cs" />
     <Compile Include="Data\XmlStopParser.cs">
       <SubType>Code</SubType>
     </Compile>
