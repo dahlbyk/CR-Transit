@@ -5,7 +5,7 @@ using System.Xml.Linq;
 
 namespace Transit.Core.Data
 {
-    public class XmlStopParser
+    public class XmlStopParser : IXmlStopParser
     {
         public ILookup<string, IEnumerable<RouteStopInfo>> Parse(XDocument doc)
         {

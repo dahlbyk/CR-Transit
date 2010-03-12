@@ -1,12 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using System.Xml.Linq;
 
 namespace Transit.Core.Data
 {
-    public class XmlRouteParser
+    public class XmlRouteParser : IXmlRouteParser
     {
         public ILookup<string, IEnumerable<RouteInfo>> Parse(XDocument doc)
         {
