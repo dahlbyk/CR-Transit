@@ -7,7 +7,7 @@ namespace Transit.Core.Data
 {
     public class XmlRouteParser : IXmlRouteParser
     {
-        public IDictionary<string, RouteInfo> Parse(XDocument doc)
+        public Dictionary<string, RouteInfo> Parse(XDocument doc)
         {
             var routes = 
                from route in doc.Element("Routes").Elements("Route")

@@ -8,23 +8,6 @@ namespace Transit.UnitTests.Core.Data
     [TestFixture]
     public class XmlRouteParserTests
     {
-        private string routes = @"
-            <Routes>
-              <Route>
-                <Id>R01</Id>
-                <Name>Route 1</Name>
-                <Description>Ellis Park</Description>
-                <Direction>West</Direction>
-              </Route>
-              <Route>
-                <Id>R02</Id>
-                <Name>Route 2</Name>
-                <Description>Mt Vernon - Memorial</Description>
-                <Direction>East</Direction>
-              </Route>
-            </Routes>
-            ";
-
         [Test]
         public void Parse_should_give_us_what_we_want()
         {
@@ -45,5 +28,22 @@ namespace Transit.UnitTests.Core.Data
         {
             return new XmlRouteParser();
         }
+
+        private string routes = @"
+            <Routes>
+              <Route>
+                <Id>R01</Id>
+                <Name>Route 1</Name>
+                <Description>Ellis Park</Description>
+                <Direction>West</Direction>
+              </Route>
+              <Route>
+                <Id>R02</Id>
+                <Name>Route 2</Name>
+                <Description>Mt Vernon - Memorial</Description>
+                <Direction>East</Direction>
+              </Route>
+            </Routes>
+            ";
     }
 }

@@ -6,6 +6,6 @@ namespace Transit.Core.Data
 {
     public interface IXmlStopParser
     {
-        IDictionary<string, IEnumerable<RouteStopInfo>> Parse(XDocument doc);
+        Dictionary<string, IEnumerable<RouteStopInfo>> Parse(XDocument doc);
     }
 }

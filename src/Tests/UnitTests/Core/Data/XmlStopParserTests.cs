@@ -11,6 +11,36 @@ namespace Transit.UnitTests.Core.Data
     [TestFixture]
     public class XmlStopParserTests
     {
+        [Test]
+        public void Test()
+        {
+            var doc = XDocument.Parse(stops);
+
+            var parser = GetParser();
+
+            var result = parser.Parse(doc);
+            var route1 = result["R01"];
+            var stop1 = route1.First();
+
+            Assert.AreEqual(2, result.Count);
+            Assert.AreEqual(2, route1.Count());
+            Assert.AreEqual("Lot 44", stop1.Number);
+            Assert.AreEqual(" out", stop1.Direction);
+            Assert.AreEqual(" Lot 44 SE", stop1.Location);
+            Assert.AreEqual("Cedar Rapids", stop1.City);
+            Assert.AreEqual("IA", stop1.State);
+            Assert.AreEqual(" concrete pad", stop1.Description);
+            Assert.AreEqual(0m, stop1.Mile);
+            Assert.AreEqual(41.9697953829611m, stop1.Latitude);
+            Assert.AreEqual(-91.660023271759m, stop1.Longitude);
+            Assert.AreEqual("52403", stop1.PostalCode);
+        }
+
+        private static XmlStopParser GetParser()
+        {
+            return new XmlStopParser();
+        }
+
         private string stops = @"
             <Stops>
 	            <Stop>
@@ -54,35 +84,5 @@ namespace Transit.UnitTests.Core.Data
 	            </Stop>
             </Stops>
             ";
-
-        [Test]
-        public void Test()
-        {
-            var doc = XDocument.Parse(stops);
-
-            var parser = GetParser();
-
-            var result = parser.Parse(doc);
-            var route1 = result["R01"];
-            var stop1 = route1.First();
-            
-            Assert.AreEqual(2, result.Count);
-            Assert.AreEqual(2, route1.Count());
-            Assert.AreEqual("Lot 44", stop1.Number);
-            Assert.AreEqual(" out", stop1.Direction);
-            Assert.AreEqual(" Lot 44 SE", stop1.Location);
-            Assert.AreEqual("Cedar Rapids", stop1.City);
-            Assert.AreEqual("IA", stop1.State);
-            Assert.AreEqual(" concrete pad", stop1.Description);
-            Assert.AreEqual(0m, stop1.Mile);
-            Assert.AreEqual(41.9697953829611m, stop1.Latitude);
-            Assert.AreEqual(-91.660023271759m, stop1.Longitude);
-            Assert.AreEqual("52403", stop1.PostalCode);
-        }
-
-        private static XmlStopParser GetParser()
-        {
-            return new XmlStopParser();
-        }
     }
 }

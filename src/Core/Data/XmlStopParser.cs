@@ -7,7 +7,7 @@ namespace Transit.Core.Data
 {
     public class XmlStopParser : IXmlStopParser
     {
-        public IDictionary<string, IEnumerable<RouteStopInfo>> Parse(XDocument doc)
+        public Dictionary<string, IEnumerable<RouteStopInfo>> Parse(XDocument doc)
         {
             var groups = 
                from stop in doc.Element("Stops").Elements("Stop")
@@ -20,9 +20,9 @@ namespace Transit.Core.Data
                    City = (string)stop.Element("City"),
                    State = (string)stop.Element("State"),
                    Description = (string)stop.Element("Description"),
-                   Mile = (decimal)stop.Element("Mile"),
-                   Latitude = (decimal)stop.Element("Latitude"),
-                   Longitude = (decimal)stop.Element("Longitude"),
+                   Mile = (decimal?)stop.Element("Mile"),
+                   Latitude = (decimal?)stop.Element("Latitude"),
+                   Longitude = (decimal?)stop.Element("Longitude"),
                    PostalCode = (string)stop.Element("PostalCode")
                }
                group routeStop by route;

@@ -6,6 +6,6 @@ namespace Transit.Core.Data
 {
     public interface IXmlRouteParser
     {
-        IDictionary<string, RouteInfo> Parse(XDocument doc);
+        Dictionary<string, RouteInfo> Parse(XDocument doc);
     }
 }
