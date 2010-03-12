@@ -7,7 +7,7 @@ namespace Transit.Core.Data
 {
     public class XmlStopParser : IXmlStopParser
     {
-        public ILookup<string, IEnumerable<RouteStopInfo>> Parse(XDocument doc)
+        public IDictionary<string, IEnumerable<RouteStopInfo>> Parse(XDocument doc)
         {
             var groups = 
                from stop in doc.Element("Stops").Elements("Stop")
@@ -27,7 +27,7 @@ namespace Transit.Core.Data
                }
                group routeStop by route;
 
-            return groups.ToLookup(g => g.Key, g => g.AsEnumerable());
+            return groups.ToDictionary(g => g.Key, g => g.AsEnumerable());
         }
     }
 }
