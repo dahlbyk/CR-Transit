@@ -1,7 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
 using System.Xml.Linq;
+using System.Collections.Generic;
 
 namespace Transit.Core.Data
 {

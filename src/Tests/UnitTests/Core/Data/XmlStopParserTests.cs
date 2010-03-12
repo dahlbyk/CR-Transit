@@ -1,10 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using NUnit.Framework;
 using System.Xml.Linq;
+using NUnit.Framework;
 using Transit.Core.Data;
+
 
 namespace Transit.UnitTests.Core.Data
 {

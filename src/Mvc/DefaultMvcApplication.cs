@@ -1,8 +1,8 @@
 namespace Transit.Mvc
 {
     using MvcTurbine.ComponentModel;
-    using MvcTurbine.StructureMap;
     using MvcTurbine.Web;
+    using Transit.Mvc.Registration;
 
     public class DefaultMvcApplication : TurbineApplication
     {
@@ -10,7 +10,7 @@ namespace Transit.Mvc
         static DefaultMvcApplication()
         {
             //TODO: Specify your own service locator here.
-            ServiceLocatorManager.SetLocatorProvider(() => new StructureMapServiceLocator());
+            ServiceLocatorManager.SetLocatorProvider(() => new ServiceLocator());
         }
     }
 }

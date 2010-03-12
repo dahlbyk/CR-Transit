@@ -1,10 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Xml.Linq;
+using Transit.Core.Models;
 
 namespace Transit.Core.Data
 {
-    public class XmlRouteRepository : IXmlRouteRepository
+    public class XmlRouteRepository : IRouteRepository
     {
         private readonly IXmlRouteParser routeParser;
         private readonly IXmlStopParser stopParser;
@@ -26,6 +28,12 @@ namespace Transit.Core.Data
             if (routes.TryGetValue(id, out route))
                 return route;
             return null;
+        }
+
+        public IEnumerable<RouteSummary> GetRoutes()
+        {
+            return from route in routes.Values
+                   select new RouteSummary(route);
         }
 
         private void ParseFiles()

@@ -1,7 +1,8 @@
 ﻿using System;
-using NUnit.Framework;
 using System.Xml.Linq;
+using NUnit.Framework;
 using Transit.Core.Data;
+
 
 namespace Transit.UnitTests.Core.Data
 {

@@ -51,6 +51,7 @@
   <ItemGroup>
     <Compile Include="Core\Data\XmlRouteParserTests.cs" />
     <Compile Include="Core\Data\XmlStopParserTests.cs" />
+    <Compile Include="Mvc\Registration\ServiceRegistration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

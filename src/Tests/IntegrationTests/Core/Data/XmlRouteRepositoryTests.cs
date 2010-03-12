@@ -3,6 +3,7 @@ using System.Linq;
 using NUnit.Framework;
 using Transit.Core.Data;
 
+
 namespace Transit.IntegrationTests.Core.Data
 {
     [TestFixture]
