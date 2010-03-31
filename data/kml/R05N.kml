@@ -1,0 +1,888 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Cedar Rapids Transit</name>
+    <description>Cedar Rapids Transit - Route R05N</description>
+    <Placemark>
+      <name> Lot 44 SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6599931267486,41.9696952273852</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 3rd St &amp; 9th Ave SE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.660673,41.972668</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 3rd St &amp; 7th Ave SE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.662376,41.9743169</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 3rd St &amp; 5th Ave SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.664093,41.975977</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 3rd St &amp; 2nd Ave SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6667241,41.978511</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave at the 4th St RR tracks SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6664733437286,41.9799367114404</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; 6th St SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6642867,41.9812759</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; 8th St SE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6620793,41.982547</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; 10th St SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6598641,41.9838343</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; 12th St SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.657833,41.984992</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; 13th St SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.655598,41.9862449</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; 15th St SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6522867,41.9881595</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; 16th St SE</name>
+      <description> concrete pad - shelter</description>
+      <Point>
+        <coordinates>-91.6495417,41.9897142</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1635 1st Ave SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6379007,41.9968122</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; 18th St SE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.646307,41.991582</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; 19th St SE</name>
+      <description> concrete pad - shelter</description>
+      <Point>
+        <coordinates>-91.6443198,41.9927694</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1953 1st Ave SE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6379007,41.9968122</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; Cottage Grove Ave SE</name>
+      <description> concrete pad - shelter</description>
+      <Point>
+        <coordinates>-91.6388838,41.9958861</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; Thompson Dr SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.637225,41.997724</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; 24th St Dr SE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6361445,42.0001701</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 2517 1st Ave SE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6355555,42.0014253</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; 27th St Dr SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6347931,42.0034403</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; 29th St Dr SE</name>
+      <description> concrete pad - shelter</description>
+      <Point>
+        <coordinates>-91.6348546,42.006159</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; 32nd St Dr SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6349329,42.009816</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; 34th St Dr SE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6350339,42.0123539</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; 36th St Dr SE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.635077,42.01486</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; 38th St Dr SE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6344262,42.0170661</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; 40th St Dr SE</name>
+      <description> concrete pad - shelter</description>
+      <Point>
+        <coordinates>-91.6323688,42.0194849</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 4341 1st Ave SE</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6287428,42.0225115</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Lindale Mall NE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6262936,42.0258728</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Kmart parking lot stop sign NE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6279568222747,42.0282584275888</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Kmart exit at Lindale Dr NE</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6267709,42.0279807</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 439 Lindale Dr Mar</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6240881,42.031961</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> &amp; 410-438 Lindale Dr </name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6254328635917,42.0298802077486</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 679 W 8th Ave </name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6172796,42.0345431</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> W 8th Ave &amp; Parkview Dr </name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6154509,42.0344489</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 8th Ave &amp; 3rd St </name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.60784,42.034213</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 483 8th Ave </name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6054494,42.0341924</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 8th Ave &amp; 7th St </name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6027768,42.0341979</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 8th Ave &amp; 9th St </name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6004889,42.034198</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 925 10th St </name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.5992734,42.0353544</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Central Ave &amp; 9th St </name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6004875,42.0368083</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Central Ave &amp; 7th St </name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.602744,42.037762</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Central Ave &amp; 5th St </name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6051242,42.0387675</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Alburnett Rd &amp; Geode St </name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6074798,42.040723</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Alburnett Rd &amp; Boyson Rd </name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6106619385467,42.043677611855</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Alburnett Rd &amp; Isham Dr </name>
+      <description> gravel shoulder - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6120649,42.0453398</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Alburnett Rd &amp; Partridge Ave </name>
+      <description> gravel shoulder - no sidewalk</description>
+      <Point>
+        <coordinates>-91.614012,42.0491979</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> W 29th Ave &amp; Autumn Dr </name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6131773,42.0509678</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> W 29th Ave &amp; Meghann Dr </name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6098389,42.0509395</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 29th Ave &amp; 1st St </name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.608779,42.0509739</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 29th Ave &amp; 4th &amp; 5th St </name>
+      <description> gravel shoulder - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6045149,42.050951</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 29th Ave &amp; Ridgeview Way </name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.602414,42.050927</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 29th Ave &amp; 10th St </name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.5993793,42.050453</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 10th St @ the Azure Apartments </name>
+      <description> gravel shoulder - no sidewalk</description>
+      <Point>
+        <coordinates>-91.589549,42.0344</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1035 McGowan Blvd </name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.5987886,42.0430072</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> McGowan Blvd &amp; 14th St </name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.5947683,42.042965</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> McGowan Blvd &amp; 16th St </name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.5928634,42.0429739</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> McGowan Blvd &amp; Maplecrest Dr </name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.5896992,42.0429235</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> McGowan Blvd &amp; 24th St </name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.587391,42.042891</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> McGowan Blvd &amp; 27th St </name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.583703,42.0432879</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 2895 McGowan Blvd </name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.5814785,42.0432474</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 3065 McGowan Blvd </name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.5796697,42.0432375</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 31st St &amp; 15th Ave </name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.579143,42.040028</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 31st St &amp; 12th Ave </name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.579161,42.038339</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 31st St &amp; 10th Ave </name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.5791579,42.036028</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 870 31st St </name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.5791825,42.0348605</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 3275 7th Ave </name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.5773739,42.0350029</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 7th Ave &amp; 35th St </name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.5743226,42.0359776</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 3701 Hwy 151 </name>
+      <description> gravel shoulder - no sidewalk</description>
+      <Point>
+        <coordinates>-91.5720917729125,42.0359326287668</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Hwy 151 &amp; Katz Dr </name>
+      <description> gravel shoulder - no sidewalk</description>
+      <Point>
+        <coordinates>-91.5696915,42.035946</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Hwy 151 &amp; 44th St </name>
+      <description> gravel shoulder - no sidewalk</description>
+      <Point>
+        <coordinates>-91.5628941,42.0355094</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Hwy 151 &amp; 50th St </name>
+      <description> gravel shoulder - no sidewalk</description>
+      <Point>
+        <coordinates>-91.556867554544,42.0359485659151</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Hwy 151 &amp; Eagleview Dr </name>
+      <description> gravel shoulder - no sidewalk</description>
+      <Point>
+        <coordinates>-91.5534772423492,42.0359166916144</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Wal-Mart</name>
+      <description> concrete pad - shelter</description>
+      <Point>
+        <coordinates>-91.5519430187927,42.0346895188811</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 8th Ave &amp; 49th St</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.5579264,42.0339668</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 4600 8th Ave </name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.5619208,42.0340337</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 8th Ave &amp; 44th St </name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.5628772,42.0340288</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 44th St &amp; Hwy 151 </name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.5628864315734,42.0360441887214</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Hwy 151 &amp; Katz Dr </name>
+      <description> gravel shoulder - no sidewalk</description>
+      <Point>
+        <coordinates>-91.5696915,42.035946</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Hwy 151 &amp; 35th St </name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.5742482689605,42.0359804401999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 3202 7th Ave </name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.578112,42.0345099</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 7th Ave &amp; 31st St </name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.5793911,42.0336746</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 2790 7th Ave </name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.5825523,42.0333195</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 2504 7th Ave </name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.5857149,42.0333356</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 2240 7th Ave </name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.5884144,42.0333303</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 7th Ave &amp; 20th St </name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.5904552,42.0333078</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 7th Ave &amp; 15th St </name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.5939065,42.0333309</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 7th Ave @ Marion Square</name>
+      <description> concrete pad - shelter</description>
+      <Point>
+        <coordinates>-91.6133217,42.0302339</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 7th Ave &amp; 9th St </name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6004955,42.0333667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 708 7th Ave </name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6026184,42.0333652</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 448 7th Ave </name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6058585,42.0333613</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 7th Ave &amp; 2nd St </name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6092433,42.0330077</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 7th Ave &amp; 1st St </name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6112842110382,42.0315338230477</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 340 Marion Blvd</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6144017,42.0296181</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Marion Blvd &amp; Armar Dr</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6168477,42.0280554</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; Tama St NE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6192575,42.0268819</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; Ridgeside Dr NE</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6231368,42.0248422</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Lindale Mall NE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6262936,42.0258728</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave @ Cedar Memorial NE</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6297699955688,42.0223766369599</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; 40th St NE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6324342,42.0194119</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; 38th St NE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6344262,42.0170661</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; 36th St NE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6350765,42.0146645</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; 34th St NE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6350326,42.0122177</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; 32th St NE</name>
+      <description> concrete pad - shelter</description>
+      <Point>
+        <coordinates>-91.6350914982543,42.009814243353</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; 29th St NE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6348546,42.006159</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; 27th St NE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6347922,42.0033469</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 2510 1st Ave NE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6356246,42.0013774</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 2310 1st Ave NE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6364902,41.9993296</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; 21st St NE</name>
+      <description> concrete pad - shelter</description>
+      <Point>
+        <coordinates>-91.6388838,41.9958861</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; 20th St NE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6408193,41.9947175</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; 19th St NE</name>
+      <description> concrete pad - shelter</description>
+      <Point>
+        <coordinates>-91.6443198,41.9927694</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; 18th St NE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6465843,41.9914316</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; 17th St NE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6485244,41.990313</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; 16th St NE</name>
+      <description> concrete pad - shelter</description>
+      <Point>
+        <coordinates>-91.6502699,41.9893015</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; 15th St NE</name>
+      <description> concrete pad bench</description>
+      <Point>
+        <coordinates>-91.6522867,41.9881595</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; College Dr NE</name>
+      <description> concrete pad bench</description>
+      <Point>
+        <coordinates>-91.655598,41.9862449</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; Coe Rd NE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6580404785858,41.9850089861634</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; 10th St NE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6598641,41.9838343</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; 8th St NE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6620793,41.982547</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; 6th St NE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6642867,41.9812759</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 3rd St &amp; 2nd Ave SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6667241,41.978511</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 3rd St &amp; 5th Ave SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.664093,41.975977</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 3rd St &amp; 7th Ave SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.662376,41.9743169</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 3rd St &amp; 9th Ave SE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.660673,41.972668</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Lot 44 SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>,</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

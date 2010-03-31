@@ -1,0 +1,615 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Cedar Rapids Transit</name>
+    <description>Cedar Rapids Transit - Route R09</description>
+    <Placemark>
+      <name> Lot 44 SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>,</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 2nd St &amp; 9th Ave  SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6618346,41.972032</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 2nd St &amp; 7th Ave SE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6635261,41.973668</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 2nd St &amp; 5th Ave SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6652104,41.9753269</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 5th Ave &amp; 4th St  SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.662743,41.9780658</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 6th St &amp; 4th Ave SE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6616179,41.978687</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 6th St &amp; 2nd Ave SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.663386,41.980405</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 5th St &amp; 3rd Ave SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6636326,41.9789465</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 5th Ave &amp; 7th St SE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6596614,41.9785038</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 5th Ave &amp; 8th St SE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.658563,41.9791499</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 5th Ave &amp; 10th St SE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6563403,41.9804205</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 5th Ave &amp; McKinley St SE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6556177,41.9808371</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 5th Ave &amp; 12th St SE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6541872,41.9816948</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 5th Ave &amp; 14th St SE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.652754,41.9827172</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 5th Ave &amp; 15th St SE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.650512,41.982645</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 5th Ave &amp; 16th St SE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6478167,41.982579</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 5th Ave &amp; 18th St SE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.644695,41.98249</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 19th St &amp; 4th Ave SE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.642866,41.983461</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 19th St &amp; Bever Ave SE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.642899,41.984499</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 19th St &amp; Park Ave SE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.642782,41.98659</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 19th St &amp; Blake Blvd SE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6426699,41.9887123</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 19th St &amp; Linden Dr SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6425544,41.9910209</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 19th St &amp; 1st Ave SE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6443198,41.9927694</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1953 1st Ave SE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6379007,41.9968122</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; Cottage Grove Ave SE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6388838,41.9958861</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Cottage Grove Ave &amp; Foxburne SE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.635717,41.9952568</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Cottage Grove Ave &amp; Forest Dr SE</name>
+      <description> concrete pad - bench</description>
+      <Point>
+        <coordinates>-91.6332715,41.995213</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Forest Dr &amp; Dows Ln SE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.634113,41.9918569</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Forest Dr &amp; Linden Terrace SE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6339011,41.9889916</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Forest Dr &amp; Grande Ave SE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6340719,41.986882</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Forest Dr &amp; Washington Ave SE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.634013,41.985304</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Forest Dr &amp; Bever Ave SE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.63327,41.9843037</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Meadowbrook Dr &amp; 5th Ave SE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.632187,41.9819389</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Meadowbrook Dr &amp; 26th St SE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6309519,41.9809879</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Meadowbrook Dr &amp; Memorial Dr SE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6282559,41.980972</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Memorial Dr &amp; Buchanan Dr SE</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.628213,41.979388</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Memorial Dr &amp; Dalewood Ave SE</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6282093,41.97828</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Mt Vernon Rd &amp; 28th St SE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6263429,41.97689</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Mt Vernon Rd &amp; 30th St SE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.623285,41.9768809</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Mt Vernon Rd &amp; 33rd St SE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6205014,41.9768331</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Mt Vernon Rd &amp; 34th St SE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6184197,41.9768254</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Mt Vernon &amp; 36th St SE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6160224,41.976828</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 38th St &amp; Vine Ave SE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6143532,41.977683</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Dalewood Ave &amp; 36th St SE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6160438,41.978462</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Dalewood Ave &amp; 34th St SE</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6184596,41.9784439</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 34th St &amp; Mansfield Ave SE</name>
+      <description> sidewalk access</description>
+      <Point>
+        <coordinates>-91.6185042,41.981036</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 34th St &amp; Bever Ave SE</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6185596,41.9840848</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 34th St &amp; Kegler Ct SE</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6186267,41.9868214</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 34th St &amp; Lamplite Ln SE</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6098151225486,41.9754977541351</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 34th St &amp; Random Rd SE</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6186975,41.99148</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 34th St &amp; Cottage Grove Ave SE</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6187504,41.9949865</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Cottage Grove Ave &amp; Sylvan Ln SE</name>
+      <description> gravel shoulder - no sidewalk</description>
+      <Point>
+        <coordinates>-91.612678,41.995138</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Sunland Dr &amp; Fox Meadow Dr SE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6082184,41.9943469</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Sunland Dr &amp; Sunland Ct SE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6082354,41.9931748</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 4264 Cottage Grove Pkwy SE</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6044651,41.9914031</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Cottage Grove Pkwy &amp; East Post Rd SE</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.602503,41.990617</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> East Post Rd &amp; Trailridge Rd SE</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.604135,41.9858059</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> East Post Rd &amp; High Ridge Rd SE</name>
+      <description> gravel shoulder - no sidewalk</description>
+      <Point>
+        <coordinates>-91.605479,41.981921</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> East Post Rd &amp; East Post Rd SE</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6069102901855,41.9807657822133</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> East Post Rd &amp; Beaver Hollow SE</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6067269,41.9791159</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> East Post Rd &amp; Mt Vernon Rd SE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6059768,41.976863</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Hy-Vee SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6168290991226,41.974002208764</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1225 42nd St SE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.608787,41.9731999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 42nd St &amp; 14th Ave SE</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.608766,41.971824</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 42nd St &amp; Pioneer Ave SE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6087674,41.9682768</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Pioneer Ave &amp; Oak Ridge Ln SE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6110945362487,41.9678760884149</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Pioneer Ave &amp; 34th St SE</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6183221,41.969537</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 3200 Pioneer Ave SE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6203364,41.969563</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Pioneer Ave &amp; Oakridge Dr SE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6218126434723,41.9695831655371</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 30th St &amp; 14th Ave SE</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6232384,41.9723147</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 14th Ave &amp; Seely Ave SE</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6255659,41.9719032</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Seely Ave &amp; Memorial Dr SE</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6282453,41.9717747</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Memorial Dr &amp; 14th Ave SE</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6280815,41.9729405</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1030 Memorial Dr SE</name>
+      <description> grass to concrete pad shelter</description>
+      <Point>
+        <coordinates>-91.6281005,41.9756035</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Mt Vernon Rd &amp; 26th St SE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6309126,41.9769611</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Mt Vernon Rd &amp; Forest Dr SE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6331217,41.9769824</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Mt Vernon Rd &amp; Vernon Dr SE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6363782,41.9770289</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Mt Vernon Rd &amp; 20th St SE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6397269,41.9770894</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Mt Vernon Rd &amp; 19th St SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6427972,41.9772087</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Mt Vernon Rd &amp; 17th St SE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6464816,41.9773208</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 15th St &amp; 10th Ave SE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6496244,41.9764408</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 15th St &amp; 11th Ave SE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6496858,41.9754518</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 15th St &amp; 12th Ave SE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6497945,41.9737834</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 12th Ave &amp; 9th St SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6512609,41.973812</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 12th Ave &amp; 7th St SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6537439,41.972744</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 12th Ave &amp; 3rd St SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6581791,41.970219</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Lot 44 SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>,</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

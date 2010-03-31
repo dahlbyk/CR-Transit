@@ -1,0 +1,657 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Cedar Rapids Transit</name>
+    <description>Cedar Rapids Transit - Route R01</description>
+    <Placemark>
+      <name> Lot 44 SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.660023271759,41.9697953829611</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> C St &amp; 14th Ave SW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6635939,41.9651218</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> C St &amp; 1st St SW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6669878,41.966953</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st St &amp; 10th Ave SW</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.667749,41.968157</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st St &amp; Diagonal Dr SW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6693432,41.9706419</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st St &amp; 6th Ave SW</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.670084,41.9718139</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st St &amp; 4th Ave SW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6713039,41.9737</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 2nd Ave &amp; 2nd St SW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6737859,41.975139</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 3rd St between 2nd Ave &amp; 1st Ave SW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6752904054718,41.9751715613595</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 3rd St &amp; B Ave NW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6769151,41.9776048</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> F Ave &amp; 3rd St  NW</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6771178,41.9789875</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> F Ave &amp; 5th St  NW</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6799659,41.9789929</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> F Ave &amp; 8th St NW</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6834068,41.9790389</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 10th St &amp; E Ave NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.686183,41.9780317</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> E Ave &amp; 13th St NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.689376,41.978072</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 15th St &amp; F Ave NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.691362201889,41.9790478713323</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> F Ave &amp; 10th St NW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.686205,41.979084</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> F Ave &amp; 8th St NW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6834068,41.9790389</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Ellis Blvd &amp; G Ave NW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6820117,41.980073</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Ellis Blvd &amp; I Ave NW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.682029,41.9816919</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Ellis Blvd &amp; K Ave NW</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6820377,41.9840936</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Ellis Blvd &amp; L Ave NW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6820949,41.9853589</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Ellis Blvd &amp; M Ave NW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.682118,41.9867629</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Ellis Blvd &amp; O Ave NW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6821474,41.989019</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Ellis Blvd &amp; Q Ave NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6822235,41.9925389</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Ellis Blvd &amp; Ellis Ln NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.683914,41.9950009</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Ellis Blvd &amp; the Ellis Swimming Pool NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6872745153503,41.9986331868369</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Ellis Blvd past the River Pavillion NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.689012586792,41.9997813245161</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Ellis Blvd &amp; the Ellis Overlook Pavillion NW</name>
+      <description> gravel shoulder - grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6913514730529,42.0015672752867</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Ellis Rd &amp; 16th St NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.694198,42.003651</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Ellis Rd &amp; 18th St NW</name>
+      <description> gravel shoulder - no sidewalk</description>
+      <Point>
+        <coordinates>-91.697058,42.0048449</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Ellis Rd &amp; Buckingham Dr NW</name>
+      <description> gravel shoulder - no sidewalk</description>
+      <Point>
+        <coordinates>-91.7029081,42.0054799</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Ellis Rd &amp; 26th St NW</name>
+      <description> gravel shoulder - no sidewalk</description>
+      <Point>
+        <coordinates>-91.7067741,42.0048059</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 2260 Edgewood Rd NW</name>
+      <description> driveway - no sidewalk</description>
+      <Point>
+        <coordinates>-91.7090364,42.0001674</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Edgewood Rd &amp; 29th St NW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.7100411054687,41.9968631006627</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Edgewood Rd &amp; Edgewood Ln NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.7152109,41.9919497</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Edgewood Rd &amp; Rogers Rd NW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.720255,41.9884562</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Rogers Rd &amp; Rogers Rd NW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.7211025354461,41.9886020475344</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Rogers Rd &amp; Greenlefe Dr NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.7241644,41.9893609</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Wiley Blvd &amp; M Ave  NW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.7256819,41.987764</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Wiley Blvd &amp; Cedarcrest Ct NW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.7259197828369,41.9844232687357</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Wiley Blvd &amp; F Ave NW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.7257142,41.9803512</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 3703 F Ave NW</name>
+      <description> gravel shoulder - no sidewalk</description>
+      <Point>
+        <coordinates>-91.7255309,41.9802995</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> F Ave &amp; Edgewood Rd NW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.7159516,41.9803011</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 3005 F Ave NW</name>
+      <description> gravel shoulder - grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.7128458,41.9800162</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> F Ave &amp; 27th St NW</name>
+      <description> gravel shoulder - no sidewalk</description>
+      <Point>
+        <coordinates>-91.708136,41.9798789</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> F Ave &amp; Westwood Dr NW</name>
+      <description> gravel shoulder - no sidewalk</description>
+      <Point>
+        <coordinates>-91.7030318,41.9797995</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Westwood Dr &amp; E Ave NW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.7030316,41.9781709</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> E Ave &amp; 24th St NW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.705849,41.978207</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> E Ave &amp; 27th St NW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.7083059,41.9782269</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 2918 E Ave NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.7107179,41.978263</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 3100 E Ave NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.7126858,41.9782782</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> E Ave &amp; Edgewood Rd NW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.7159644,41.9783172</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Edgewood Rd &amp; F Ave NW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.7159516,41.9803011</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Edgewood Rd &amp; H Ave NW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.7159454,41.9811392</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Edgewood Rd &amp; Waveland Dr NW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.715936,41.983165</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Edgewood Rd &amp; Westwood Dr NW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.7160031,41.9862095</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1411 Edgewood Rd NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.7159724,41.9864619</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Edgewood Rd &amp; O Ave NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.7158715,41.9892745</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> O Ave &amp; Hillside Dr NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.712609,41.9892089</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> O Ave &amp; Blanche Dr NW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.71019,41.989201</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 2801 O Ave NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.7086505,41.9891853</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> O Ave &amp; 26th St NW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.7060392,41.9891843</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> O Ave &amp; Highwood Dr NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.7018759,41.989108</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> O Ave &amp; 20th St NW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.699273,41.9890972</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1725 O Ave NW</name>
+      <description> concrete pad - shelter</description>
+      <Point>
+        <coordinates>-91.6955167,41.9890217</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> O Ave &amp; 16th St NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.693772,41.9890259</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> O Ave &amp; 13th St NW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.689526,41.989005</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> O Ave &amp; 11th St NW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6870759,41.988988</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 11th St &amp; M Ave NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.687044,41.9867909</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 11th St &amp; L Ave NW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6870019,41.9853309</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 11th St &amp; K Ave NW</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6869749,41.984068</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> K Ave &amp; 13th St NW</name>
+      <description> concrete pad - shelter</description>
+      <Point>
+        <coordinates>-91.689413,41.983824</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 13th St &amp; I Ave NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.689409,41.981721</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 13th St &amp; F Ave NW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.689398,41.9791139</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1500 15th St NW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6913890239792,41.9781545862518</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> E Ave &amp; 13th St NW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.689376,41.978072</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> E Ave &amp; 11th St NW</name>
+      <description> concrete pad - shelter</description>
+      <Point>
+        <coordinates>-91.687,41.978026</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 10th St &amp; C Ave NW</name>
+      <description> concrete pad - shelter</description>
+      <Point>
+        <coordinates>-91.685681,41.975949</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> C Ave &amp; 8th St NW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6829839,41.975913</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> B Ave &amp; 6th St NW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6807323,41.976241</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> B Ave &amp; 5th St NW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.679424,41.9767</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 5th St &amp; 1st Ave NW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6783481237487,41.974852512993</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; L St SW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6769956,41.9752296</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; 2nd St SW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.674436,41.976138</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st St &amp; 2nd Ave SW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6724886,41.975588</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st St &amp; 4th Ave SW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6713039,41.9737</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st St &amp; 6th Ave SW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.670084,41.9718139</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st St &amp; 9th Ave  SW</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6683863994674,41.9692130693412</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st St &amp; 10th Ave SW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.667749,41.968157</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st St &amp; C St  SW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6669878,41.966953</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> C St &amp; 14th Ave SW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6635939,41.9651218</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Lot 44 SW</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6603665945129,41.9697315680296</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,734 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Cedar Rapids Transit</name>
+    <description>Cedar Rapids Transit - Route R08</description>
+    <Placemark>
+      <name> Lot 44 SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6599953376831,41.9697171414398</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 2nd St &amp; 9th Ave SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6618346,41.972032</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 8th Ave &amp; 1st St SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6689092,41.969977</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Diagonal Dr &amp; 1st St SW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6693432,41.9706419</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Diagonal Dr &amp; 3rd St SW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6727087,41.9710173</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 5th Ave &amp; 6th St SW</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6771345,41.9705969</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 6th St &amp; 3rd Ave SW</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6782453,41.9724026</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 6th St &amp; 1st Ave NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6798436843933,41.9742797489496</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; 8th St NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6823756897033,41.9732268685324</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; 10th St NW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6845385,41.9725453</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 10th St &amp; B Ave NW</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6856789,41.974903</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> B Ave &amp; 11th St NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.686948,41.974922</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> B Ave &amp; 13th St NW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.689354,41.974945</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> B Ave &amp; 15th St NW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.691778,41.974962</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> B Ave &amp; Highland Dr NW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6931329,41.974984</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> B Ave &amp; 18th St NW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6966659,41.975026</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> B Ave &amp; 19th St NW</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.698527,41.9745829</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Johnson Ave &amp; 20th St NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.700954,41.9745209</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Johnson Ave &amp; 22nd St NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.7034486,41.9745449</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Johnson Ave &amp; 24th St NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.705861,41.974561</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Johnson Ave &amp; 27th St NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.708276,41.974599</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Johnson Ave &amp; 29th St NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.710415,41.9746289</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Johnson Ave &amp; 32nd St NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.7135239,41.974675</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Johnson Ave &amp; Edgewood Rd NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.7159965,41.974514</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 3610 Johnson Ave NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.7175278,41.9740794</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Johnson Ave &amp; Shelley Ln NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.7217046,41.9728099</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 4010 Johnson Ave NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.7232444,41.9723665</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Johnson Ave &amp; Wiley Blvd NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.725755,41.9712089</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Wiley Blvd &amp; Jupiter Ave NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.726271,41.9728209</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Midway Dr &amp; Shetland Dr NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.7267331,41.975118</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Midway Dr &amp; Alma Dr NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.7291526,41.9751177</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Midway Dr &amp; Floral Dr NW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.733012,41.9751709</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Midway Dr &amp; Jacolyn Dr NW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.7359774,41.9751635</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Jacolyn Dr &amp; E Ave NW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.7359542,41.9784793</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> E Ave &amp; Owen St NW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.736993,41.9784849</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 5200 E Ave NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.73939945336,41.978507048113</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> West Post Rd &amp; D Ave NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.74033,41.9777264</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> West Post Rd &amp; Plainview Dr NW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.739959,41.97485</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> West Post Rd &amp; Cedar Dr NW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.7404101,41.9723699</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> West Post Rd &amp; Skyline Dr NW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.7404141,41.9708307</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> West Post Rd &amp; 1st Ave NW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.7403887,41.9687418</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; Leroy St SW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.738256,41.9687238</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; Johnson Ave SW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.7352645,41.9676711</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Johnson Ave &amp; Leroy St SW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.7373099,41.9669198</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Johnson Ave &amp; West Post Rd SW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.7403965,41.9657683</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> West Post Rd &amp; 16th Ave SW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.7404093,41.9638993</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 16th Ave &amp; Naoma Dr SW</name>
+      <description> gravel shoulder - no sidewalk</description>
+      <Point>
+        <coordinates>-91.7469754,41.963999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 16th Ave &amp; Burdette Dr SW</name>
+      <description> gravel shoulder - no sidewalk</description>
+      <Point>
+        <coordinates>-91.7501296,41.9640179</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 16th Ave &amp; Stoney Point Rd SW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.7550496,41.9640728</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Stoney Point Rd &amp; Underwood Ave SW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.7550165,41.9671856</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Underwood Ave &amp; High Point Dr SW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.757682,41.96737</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Rockvalley Dr &amp; Stone Meadow Dr SW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.7585016,41.9683226</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Rockvalley Dr &amp; Rockingham Dr SW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.7591753,41.9702249</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Rockvalley Dr &amp; 1st Ave SW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.760054,41.9719784</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; Sand Ct SW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.7573738,41.9716123</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; Stoney Point Rd SW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.7550024,41.9713448</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 6225 1st Ave SW</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.752370616156,41.97131249591</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; Broadmore Rd SW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.7506433,41.9713076</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; Westview Ave SW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.7482006,41.9708276</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; Eastview Ave SW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.74651,41.969825</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; Hanover Rd SW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.7445759,41.9689948</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; Cherry Hill Rd SW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.7425594,41.9687654</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; West Post Rd SW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.7403887,41.9687418</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> West Post Rd &amp; Skyline Dr NW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.7404141,41.9708307</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> West Post Rd &amp; Cedar Dr NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.7404101,41.9723699</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> West Post Rd &amp; Plainview Dr NW</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.739959,41.97485</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> West Post Rd &amp; E Ave NW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.7402832,41.9784796</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> E Ave &amp; Lewellen Dr  NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.7379891,41.9784902</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> E Ave &amp; Jacolyn Dr NW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.7359542,41.9784793</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Jacolyn Dr &amp; Midway Dr NW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.7359774,41.9751635</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Jacolyn Dr &amp; Ford Ave NW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.734048,41.9731083</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 188 Jacolyn Dr NW</name>
+      <description> concrete pad - shelter</description>
+      <Point>
+        <coordinates>-91.7325252,41.9716602</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Jacolyn Dr &amp; Johnson Ave NW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.7318078,41.968961</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Johnson Ave &amp; Short St NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.7337075,41.9682414</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 4881 1st Ave SW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.7341633,41.966875</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; Jacolyn Dr SW</name>
+      <description> concrete pad - shelter</description>
+      <Point>
+        <coordinates>-91.7306326,41.966759</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 4419 1st Ave SW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.7276084625305,41.9670049471423</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Wiley Blvd &amp; Roxbury Dr NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.725731,41.968855</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Wiley Blvd &amp; Johnson Ave NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.725755,41.9712089</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 4035 Johnson Ave NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.7236385,41.9722189</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Johnson Ave &amp; Wellesley Ct  NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.7217046,41.9728099</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Johnson Ave &amp; Josephine Ln NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.718566,41.973738</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Johnson Ave &amp; Edgewood Rd NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.7159965,41.974514</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Johnson Ave &amp; 32nd St NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.7135239,41.974675</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 2925 Johnson Ave NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.7108106,41.9746061</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Johnson Ave &amp; 27th St NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.708276,41.974599</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Johnson Ave &amp; 24th St NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.705861,41.974561</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Johnson Ave &amp; 22nd St NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.7034486,41.9745449</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Johnson Ave &amp; 20th St NW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.700954,41.9745209</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> B Ave &amp; 18th St NW</name>
+      <description> concrete pad - shelter</description>
+      <Point>
+        <coordinates>-91.6966659,41.975026</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> B Ave &amp; Highland Dr NW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6931329,41.974984</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> B Ave &amp; 15th St NW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.691778,41.974962</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> B Ave &amp; 13th St NW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.689354,41.974945</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> B Ave &amp; 11th St NW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.686948,41.974922</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> B Ave &amp; 10th St NW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6856789,41.974903</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 10th St &amp; A Ave NW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6851669,41.9735279</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 903 1st Ave SW</name>
+      <description> concrete pad - shelter</description>
+      <Point>
+        <coordinates>-91.6832339965881,41.9728439986109</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1st Ave &amp; 6th St SW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6794757,41.9743166</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 6th St &amp; 3rd Ave SW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6782453,41.9724026</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 5th Ave &amp; L St SW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6743468,41.9711437</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Diagonal Dr &amp; 1st St SW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6693432,41.9706419</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 8th Ave &amp; 2nd St SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6626534,41.972837</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 2nd St &amp; 9th Ave SE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6618346,41.972032</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Lot 44 SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6599953376831,41.9697171414398</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

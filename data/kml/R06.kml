@@ -1,0 +1,622 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Cedar Rapids Transit</name>
+    <description>Cedar Rapids Transit - Route R06</description>
+    <Placemark>
+      <name> Lot 44 SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>,</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 10th Ave &amp; 4th St SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6587072643806,41.9724320138356</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 10th Ave &amp; 6th St SE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6565177,41.973725</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 10th Ave &amp; 8th St SE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6543063,41.974998</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 8th St &amp; 8th Ave SE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.655993,41.9766676</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 10th St past McKinley School SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6549575361778,41.9790920700449</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 10th St &amp; 4th Ave SE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.657232,41.9812429</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 3rd Ave &amp; 12th St SE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6561177,41.9832393</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 13th St &amp; 2nd Ave SE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6546895,41.985364</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 180 College Dr NE</name>
+      <description> concrete pad - shelter</description>
+      <Point>
+        <coordinates>-91.6562335,41.9869176</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> College Dr &amp; C Ave NE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6581839,41.988866</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> College Dr &amp; E Ave NE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6597788068821,41.9906298659414</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Oakland Rd &amp; G Ave NE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6595598,41.9927046</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Oakland Rd &amp; H Ave NE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6596954,41.995669</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Oakland Rd &amp; I Ave NE</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6597968,41.9975094</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Oakland Rd &amp; J Ave NE</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6598785,41.9994655</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1202 Oakland Rd NE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6598644,42.0007367</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1300 Oakland Rd NE</name>
+      <description> grass - no sidewalk - shelter</description>
+      <Point>
+        <coordinates>-91.6598657,42.0019104</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Oakland Rd &amp; O Ave NE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.659763,42.004331</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Oakland Rd &amp; 29th St NE</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.659639,42.006865</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Oakland Rd &amp; 30th St NE</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6590922,42.008586</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 32nd St &amp; Oakland Rd NE</name>
+      <description> concrete pad - shelter</description>
+      <Point>
+        <coordinates>-91.6584058,42.010387</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 32nd St &amp; Center Point Rd NE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6630529,42.01048</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 3358 Center Point Rd NE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6639009,42.0118727</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Center Point Rd &amp; Arizona Ave NE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6641857,42.016011</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Center Point Rd &amp; Miami Dr NE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6644248,42.0184649</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Center Point Rd &amp; Park Towne Ct NE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6649097,42.020057</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Center Point Rd &amp; 42nd St NE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6654133,42.0214959</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Center Point Rd &amp; Czech Ln NE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6663927,42.0234708</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Center Point Rd &amp; Dodge Rd NE</name>
+      <description> gravel shoulder - no sidewalk</description>
+      <Point>
+        <coordinates>-91.667765,42.0264339</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Center Point Rd &amp; Hwy 100 off-ramp NE</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6679286989738,42.0284504726035</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Center Point Rd &amp; North Towne Ln NE</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.668058,42.0329762</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Blairs Ferry Rd &amp; Center Point Rd </name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6683122,42.0348089</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 204 Blairs Ferry Rd </name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6720055,42.0348034</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Blairs Ferry Rd &amp; 7th Ave </name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6789469,42.0347437</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Wal-Mart NE</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6829007896949,42.0324191663141</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Wal-Mart exit at the Metro Buffet stop sign NE</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6829222473671,42.0339173236089</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Blairs Ferry Rd &amp; 12th Ave </name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6881449,42.034884</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Blairs Ferry Rd &amp; 13th Ave </name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.690467,42.036499</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1400 Blairs Ferry Rd </name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6784822,42.0347715</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Blairs Ferry Rd &amp; 18th Ave </name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6973905,42.034616</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Blairs Ferry Rd &amp; Edgewood Rd </name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.7011915,42.0347286</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Blairs Ferry Rd &amp; Miller Rd </name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.7035499,42.0347699</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Miller Rd &amp; Emmons St </name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6871939,42.0390439</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Miller Rd &amp; Boyson Rd </name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.7022789,42.044303</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Boyson Rd &amp; N 18th Ave </name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.697296,42.0442619</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1475 Boyson Rd </name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6928749,42.04422</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>N 12th Ave &amp; Boyson Rd </name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.688924,42.044216</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>N 12th Ave &amp; Lyndhurst Dr </name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6882859,42.040745</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>N 12th Ave &amp; Emmons St </name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6883079,42.039054</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Emmons St &amp; 10th Ave </name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.682856,42.0387769</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Emmons St &amp; 7th Ave </name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.678804,42.038761</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Emmons St &amp; 4th Ave </name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6762452,42.0387473</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Emmons St &amp; Center Point Rd </name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6734721,42.0387864</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Center Point Rd &amp; Willman St </name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.671226,42.0370449</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Center Point Rd &amp; Blairs Ferry Rd </name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6683122,42.0348089</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Center Point Rd &amp; North Towne Ln NE</name>
+      <description> concrete pad - bench</description>
+      <Point>
+        <coordinates>-91.668058,42.0329762</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Center Point Rd &amp; Sylvia Ave NE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.66802,42.029987</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4657 Center Point Rd NE</name>
+      <description> gravel shoulder to sidewalk</description>
+      <Point>
+        <coordinates>-91.6675317,42.0258824</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Center Point Rd &amp; Czech Ln NE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6663927,42.0234708</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Center Point Rd &amp; 42nd St NE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6654133,42.0214959</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Center Point Rd &amp; Park Towne Ct NE</name>
+      <description> concrete pad - shelter</description>
+      <Point>
+        <coordinates>-91.6649097,42.020057</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Center Point Rd &amp; Miami Dr NE</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6644248,42.0184649</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Center Point Rd &amp; Arizona Ave NE</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6641857,42.016011</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Center Point Rd &amp; McCloud Pl NE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6641878,42.0127672</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Center Point Rd &amp; 32nd St NE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6630529,42.01048</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2925 Center Point Rd NE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6628209,42.008086</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Center Point Rd &amp; 29th St NE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.662849,42.006937</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Center Point Rd &amp; O Ave NE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.662763,42.004021</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Center Point Rd &amp; McLoud Dr NE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6627029,42.001549</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Center Point Rd &amp; J Ave NE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.662666,41.999597</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Center Point Rd &amp; I Ave NE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.662643,41.997569</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Center Point Rd &amp; H Ave NE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6626074,41.995736</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Center Point Rd &amp; Lincoln Ave NE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6625728,41.993753</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Center Point Rd &amp; G Ave NE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6622277,41.9927686</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Center Point Rd &amp; F Ave NE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6607255,41.9913402</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Center Point Rd &amp; Coe Rd NE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.659917,41.9905465</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Coe Rd @ St. Luke's Hospital Resource Ctr NE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6596916350891,41.9870473319977</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A Ave &amp; 11th St NE</name>
+      <description> concrete pad - shelter</description>
+      <Point>
+        <coordinates>-91.6596614,41.985313</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>10th St &amp; 1st Ave NE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6598641,41.9838343</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>10th St &amp; 3rd Ave SE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6580859,41.9821116</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>10th St &amp; 5th Ave SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6563403,41.9804205</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>10th St &amp; 6th Ave SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.655467,41.979562</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>8th Ave &amp; 8th St SE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.655993,41.9766676</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>6th St &amp; 9th Ave SE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6573747,41.974556</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>10th Ave &amp; 5th St SE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6576081,41.9731054</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>10th Ave &amp; 3rd St SE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6598233,41.9718383</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lot 44 SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>,</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

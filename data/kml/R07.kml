@@ -1,0 +1,468 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Cedar Rapids Transit</name>
+    <description>Cedar Rapids Transit - Route R07</description>
+    <Placemark>
+      <name> Lot 44 SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>,</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> C St &amp; 16th Ave SW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.661682,41.9641239</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> C St &amp; 18th Ave SW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.660142,41.9633408</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> C St &amp; Bowling St SW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.657468,41.9619764</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> C St &amp; Rapids Ave SW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6557126,41.9610095</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> C St &amp; Lauren Dr SW</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.651579,41.958507</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> C St &amp; Hawthorne Hills shelter SW</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6570045715042,41.9328078794151</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Fruitland Blvd &amp; Wilson Ave Dr SW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6490943,41.9557699</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Wilson Ave Dr &amp; Lauren Dr SW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6521209,41.9557984</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Wilson Ave Dr &amp; Bowling St SW</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6575373,41.9558761</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Bowling St &amp; 25th Ave SW</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.657572,41.9533799</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Bowling St &amp; 27th Ave SW</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.657561,41.951808</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Bowling St &amp; 29th Ave SW</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.657223,41.94858</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Bowling St &amp; 33rd Ave SW</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6571622,41.9449581</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> &amp; 3925 Bowling St SW</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6570839,41.9398915</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Bowling St &amp; 41st Ave SW</name>
+      <description> concrete pad - shelter</description>
+      <Point>
+        <coordinates>-91.6571274,41.9376833</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Bowling St &amp; 43rd Ave SW</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6570395,41.9358767</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 4420 Bowling St SW</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6570679,41.9353732</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 4700 Bowling St SW</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6570317,41.9331316</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Bowling St &amp; 50th Ave SW</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6569418,41.9296208</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 50th Ave @ Color Web Printers driveway SW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6627713208862,41.9195013437412</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 230 50th Ave SW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6624353,41.9299911</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 50th Ave &amp; J St SW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.66641,41.9304969</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> J St &amp; Miller Ave SW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6665608,41.9240452</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> J St &amp; Mayden Ave SW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6665989,41.9202889</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> J St &amp; Oklahoma Ave SW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.66653,41.917891</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Oklahoma Ave &amp; Colorado Dr SW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6638145,41.9176671</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 5667 Vermont St SW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6623769,41.9186435</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Vermont St &amp; Mayden Ave SW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.662393,41.9208129</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Vermont St &amp; Miller Ave SW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.662359,41.924605</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 71 Miller Ave SW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6607988,41.9245491</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Miller Ave &amp; Kirkwood Blvd SW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6567789,41.9244615</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Kirkwood Blvd &amp; Kirkwood Ct SW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6567265,41.9213436</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Kirkwood Blvd &amp; Devonwood Ave SW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6566994,41.9190788</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Kirkwood Community College Main Entrance Sign SW</name>
+      <description> concrete pad - shelter</description>
+      <Point>
+        <coordinates>-91.6565700536438,41.9146553832308</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Kirkwood Community College Linn Hall SW</name>
+      <description> concrete pad - shelter</description>
+      <Point>
+        <coordinates>-91.6523214345642,41.9127552192137</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Kirkwood Community College East Campus SW</name>
+      <description> concrete pad - shelter</description>
+      <Point>
+        <coordinates>-91.6484805112548,41.9105196597105</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Kirkwood Community College Washington Hall SW</name>
+      <description> concrete pad - shelter</description>
+      <Point>
+        <coordinates>-91.6489740377136,41.9070224488837</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 801 76th Ave SW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6490223174759,41.9049503808572</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 6400 C St SW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6372195,41.9157121</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 6300 C St SW</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6372152,41.916385</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> C St &amp; Beth Page Dr SW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6372205978103,41.9199164665742</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> C St &amp; Ely Rd SW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6373278861709,41.9230138363103</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 5005 C St SW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6373857,41.9264955</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 4601 C St SW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6373922,41.9275069</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 4333 C St SW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6374121,41.9278821</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1000 41st Ave Dr SW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6487228,41.9376109</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 725 41st Ave SW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6433574920364,41.9377641936709</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 700 41st Ave Dr SW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6512225,41.9376128</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 400 41st Ave Dr SW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6537821,41.9376529</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 41st Ave Dr &amp; Bowling St SW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6571274,41.9376833</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 3939 Bowling St SW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6570858,41.9397457</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Bowling St &amp; 33rd Ave Dr SW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6571622,41.9449581</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Bowling St &amp; 29th Ave Dr SW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.657223,41.94858</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Bowling St &amp; 26th Ave Dr SW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6575589,41.9526042</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Bowling St &amp; Wilson Ave Dr SW</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6575373,41.9558761</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Wilson Ave Dr &amp; Lauren Dr SW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6521209,41.9557984</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Wilson Ave Dr &amp; Fruitland Blvd SW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6490943,41.9557699</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 2247 C St SW</name>
+      <description> concrete pad - shelter</description>
+      <Point>
+        <coordinates>-91.6503517,41.9576627</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> C St &amp; Lauren Dr SW</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.651579,41.958507</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> C St &amp; Rapids Ave SW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6557126,41.9610095</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> C St &amp; 21st Ave SW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6575473,41.9620279</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> C St &amp; 18th Ave SW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.660142,41.9633408</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> C St &amp; 16th Ave SW</name>
+      <description> concrete pad - bench</description>
+      <Point>
+        <coordinates>-91.661682,41.9641239</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> C St &amp; 12th Ave SW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6629799,41.964782</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Lot 44 SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>,</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

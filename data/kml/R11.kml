@@ -1,0 +1,503 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Cedar Rapids Transit</name>
+    <description>Cedar Rapids Transit - Route R11</description>
+    <Placemark>
+      <name> Lot 44 SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>,</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 12th Ave &amp; C St SW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6629799,41.964782</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 15th Ave &amp; 1st St SW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6648139,41.963598</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> J St &amp; 16th Ave SW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.667256,41.9616819</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> J St &amp; 19th Ave SW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.667283,41.9596085</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> J St &amp; 21st Ave SW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.667317,41.957653</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> J St &amp; Wilson Ave SW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6673133,41.955971</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> J St &amp; 25th Ave SW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6672898,41.9537015</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> J St &amp; 27th Ave SW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6672917,41.951399</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> J St &amp; 29th Ave SW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6673076,41.9487305</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 3000 J St SW</name>
+      <description> concrete pad - shelter</description>
+      <Point>
+        <coordinates>-91.667261,41.94733</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> J St &amp; 33rd Ave SW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6668591,41.9450456</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 33rd Ave &amp; South Ridge Dr SW</name>
+      <description> concrete pad - bench</description>
+      <Point>
+        <coordinates>-91.672591,41.944818</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 500 33rd Ave SW</name>
+      <description> concrete pad - bench</description>
+      <Point>
+        <coordinates>-91.6735097,41.9441182</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 610 33rd Ave SW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6766002,41.9430433</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 33rd Ave &amp; Square D Dr SW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6802633,41.9430896</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1120 33rd Ave SW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.685075,41.944973</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1120 33rd Ave SW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.685075,41.944973</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1168 33rd Ave SW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6858175,41.9453081</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 3049 12th St SW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6863694,41.9463026</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1051 29th Ave SW</name>
+      <description> concrete pad - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6841996,41.9489017</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 901 29th Ave SW</name>
+      <description> concrete pad - shelter</description>
+      <Point>
+        <coordinates>-91.6819112,41.9488904</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 29th Ave &amp; 7th St SW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6792869,41.9488788</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 29th Ave &amp; 6th St SW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6768465,41.9488774</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 6th St &amp; 32nd Ave SW</name>
+      <description> gravel shoulder - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6764567,41.9455568</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 6th St &amp; 33rd Ave  SW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6762713,41.9430264</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 6th St &amp; Ingleside Dr SW</name>
+      <description> gravel shoulder - no sidewalk</description>
+      <Point>
+        <coordinates>-91.676208,41.9368969</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 6th St &amp; Hawkeye Downs Rd SW</name>
+      <description> gravel shoulder - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6762577,41.9337149</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 6th St &amp; 50th Ave Ct SW</name>
+      <description> gravel shoulder - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6763396,41.9295281</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 5560 6th St SW</name>
+      <description> concrete pad - shelter</description>
+      <Point>
+        <coordinates>-91.6764579,41.9239998</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 6th St &amp; 58th Ave Ct  SW</name>
+      <description> gravel shoulder - no sidewalk</description>
+      <Point>
+        <coordinates>-91.67643,41.921946</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 6th St &amp; 60th Ave SW</name>
+      <description> gravel shoulder - no sidewalk</description>
+      <Point>
+        <coordinates>-91.676414,41.919799</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 6th St &amp; 63rd Ave SW</name>
+      <description> gravel shoulder - no sidewalk</description>
+      <Point>
+        <coordinates>-91.676417,41.9179679</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 6th St &amp; 66th Ave  SW</name>
+      <description> gravel shoulder - no sidewalk</description>
+      <Point>
+        <coordinates>-91.676328,41.914452</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 6th St &amp; 76th Ave SW</name>
+      <description> gravel shoulder - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6762242,41.905256</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 76th Ave &amp; Irish Dr SW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6874289215469,41.9055129613181</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 7700 18th St SW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6957725,41.904565</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Lippisch Pl &amp; Shepard Ct SW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.7059093416595,41.8910426702212</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Eastern Iowa Airport Terminal SW</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6995310486221,41.8894133592541</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Wright Brothers Blvd &amp; Frontage Rd SW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6892957390213,41.8911784442592</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Wright Brothers Blvd &amp; Atlantic Dr SW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6793179,41.8907242</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Wright Brothers Blvd past the Pearson driveway SW</name>
+      <description> gravel shoulder - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6662877500915,41.8905315183129</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Kirkwood Blvd &amp; Woodstone Ln SW</name>
+      <description> gravel shoulder - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6565781534576,41.8958824371247</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Kirkwood Blvd @ Prairie Point Middle School SW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6565888822937,41.9032292370445</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Kirkwood Blvd past the Kirkwood Continuing Ed driveway SW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6565245092773,41.9050658049548</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 76th Ave &amp; Prairie Hawk Dr SW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.658236,41.9049819</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Prairie High School parking lot SW</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6686641872787,41.9051057297571</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 6th St &amp; 66th Ave SW</name>
+      <description> gravel shoulder - no sidewalk</description>
+      <Point>
+        <coordinates>-91.676328,41.914452</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 6th St &amp; 63rd Ave SW</name>
+      <description> gravel shoulder - no sidewalk</description>
+      <Point>
+        <coordinates>-91.676417,41.9179679</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 6th St &amp; 60th Ave SW</name>
+      <description> gravel shoulder - no sidewalk</description>
+      <Point>
+        <coordinates>-91.676414,41.919799</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 6th St &amp; 58th Ave  SW</name>
+      <description> gravel shoulder - no sidewalk</description>
+      <Point>
+        <coordinates>-91.676428,41.9217389</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 5511 6th St SW</name>
+      <description> gravel shoulder - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6763705,41.9260198</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 6th St &amp; 50th Ave Ct SW</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6763396,41.9295281</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 6th St &amp; Hawkeye Downs Rd SW</name>
+      <description> gravel shoulder - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6762577,41.9337149</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 4401 6th St SW</name>
+      <description> gravel shoulder bench</description>
+      <Point>
+        <coordinates>-91.6762029,41.9357848</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 4125 6th St SW</name>
+      <description> gravel shoulder - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6761769,41.9378467</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 6th St &amp; 33rd Ave  SW</name>
+      <description> gravel shoulder to sidewalk</description>
+      <Point>
+        <coordinates>-91.6762713,41.9430264</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 6th St &amp; Gateway Pl SW</name>
+      <description> gravel shoulder - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6764567,41.9455568</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 2981 6th St SW</name>
+      <description> gravel shoulder - no sidewalk - shelter</description>
+      <Point>
+        <coordinates>-91.6767264,41.9481694</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 6th St &amp; 28th Ave SW</name>
+      <description> gravel shoulder - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6769546,41.9497265</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 6th St &amp; 27th Ave SW</name>
+      <description> gravel shoulder - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6771139,41.9515102</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 6th St &amp; Cherry Dr  SW</name>
+      <description> gravel shoulder - no sidewalk</description>
+      <Point>
+        <coordinates>-91.677163,41.9537404</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 6th St &amp; 22nd Ave SW</name>
+      <description> concrete pad - shelter</description>
+      <Point>
+        <coordinates>-91.6771722,41.956625</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 6th St &amp; 20th Ave SW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6771468,41.9587024</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 6th St &amp; 16th Ave SW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6771106,41.961796</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 385 16th Ave SW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6740459,41.9617594</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 16th Ave &amp; L St  SW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6714919,41.9617444</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 16th Ave &amp; J St SW</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.667256,41.9616819</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 16th Ave &amp; 1st St SW</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6642009,41.9625969</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 16th Ave &amp; C St SW</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.661682,41.9641239</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Lot 44 SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>,</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

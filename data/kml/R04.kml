@@ -1,0 +1,650 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Cedar Rapids Transit</name>
+    <description>Cedar Rapids Transit - Route R04</description>
+    <Placemark>
+      <name> Lot 44 SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>,</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 2nd St &amp; 9th Ave  SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6618346,41.972032</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 8th Ave &amp; 5th St SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6593006,41.97477</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 8th Ave &amp; 7th St SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6570995,41.9760405</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 8th Ave &amp; 8th St SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.655993,41.9766676</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 15th St &amp; Mt Vernon Rd SE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6495893,41.977418</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 15th St &amp; 7th Ave SE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.650471,41.98061</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 15th St &amp; 5th Ave SE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.650512,41.982645</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 15th St &amp; Bever Ave SE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6505009,41.9847399</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 15th St &amp; 3rd Ave SE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6505155,41.986381</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 15th St &amp; 1st Ave SE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6522867,41.9881595</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 15th St &amp; B Ave NE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6540311,41.9898864</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> B Ave &amp; 16th St NE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6520649,41.9910319</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> B Ave &amp; 17th St NE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.650284,41.992031</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 17th St &amp; D Ave NE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6520159,41.9937</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 17th St &amp; F Ave NE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6536738,41.9953815</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 17th St &amp; I Ave NE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6542864,41.9973939</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 17th St &amp; J Ave NE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6543031,41.9993803</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Elmhurst Dr &amp; K Ave NE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6544634,42.0003632</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Elmhurst Dr &amp; Hazel Dr NE</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6551651,42.0028409</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 27th St &amp; Elmhurst Dr NE</name>
+      <description> concrete pad no sidewalk sheter</description>
+      <Point>
+        <coordinates>-91.6546625,42.0043971</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 27th St &amp; Prairie Dr NE</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6527,42.00504</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Prairie Dr &amp; 29th St NE</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6529539,42.0066209</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Prairie Dr &amp; 30th St NE</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6529725,42.008435</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Prairie Dr &amp; 32nd St NE</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6524275,42.010222</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Prairie Dr &amp; Center St NE</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.652452,42.0121</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Prairie Dr &amp; 35th St NE</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6524989,42.013913</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 35th St &amp; Oakland Rd NE</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6565254,42.0140245</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Hollywood Blvd &amp; Oakland Rd NE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6556629,42.0154839</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Hollywood Blvd &amp; Council St NE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6581057,42.0169342</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Hollywood Blvd &amp; Sherman St NE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6604867,42.0168583</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 3920 Sherman St NE</name>
+      <description> concrete pad no sidewalk sheter</description>
+      <Point>
+        <coordinates>-91.6604665,42.0171976</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 4002 Sherman St NE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6604569,42.0183926</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1808 42nd St NE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6640122,42.0214841</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 42nd St &amp; Center Point Rd NE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6654133,42.0214959</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1946 42nd St NE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6661276,42.021528</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 2058 42nd St NE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6679285,42.0215665</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 42nd St &amp; Northwood Dr NE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.674686,42.021653</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 42nd St &amp; Meadow Ln NE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6768489,42.0216629</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 42nd St &amp; Wenig Rd NE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6794,42.021702</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 42nd St &amp; Falbrook Dr NE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6834024,42.021693</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 42nd St &amp; Westchester Dr NE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6869442,42.021724</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 42nd St &amp; Pine View Dr NE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.689588,42.021723</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 42nd St &amp; Blue Jay Dr NE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.692545,42.021707</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 42nd St &amp; Lexington Blvd NE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.695476,42.0217059</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> AEGON south stop NE</name>
+      <description> concrete pad sheter</description>
+      <Point>
+        <coordinates>-91.7041854976433,42.0242144011005</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> AEGON north stop NE</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.7037402509468,42.0263144730878</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 42nd St &amp; River Ridge Dr NE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6996068,42.0217865</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 42nd St &amp; Lexington Blvd NE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.695476,42.0217059</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 42nd St &amp; Blue Jay Dr NE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.692545,42.021707</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 42nd St &amp; Lark Ct NE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6899503,42.0217225</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 42nd St &amp; Sally Dr NE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6869442,42.021724</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 42nd St &amp; Falbrook Dr NE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6834024,42.021693</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 42nd St &amp; Wenig Rd NE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6794,42.021702</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 42nd St &amp; Meadow Ln NE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6768489,42.0216629</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 42nd St &amp; Northwood Dr NE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.674686,42.021653</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 2057 42nd St NE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6680085,42.0215331</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 42nd St &amp; Center Point Rd NE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6654133,42.0214959</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 42nd St &amp; Park Towne Ct NE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6629329,42.0214429</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 4002 Sherman St NE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6604569,42.0183926</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 3920 Sherman St NE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6604665,42.0171976</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Sherman St &amp; Hollywood Blvd NE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6604867,42.0168583</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 1525 Hollywood Blvd NE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6586119,42.0169342</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Hollywood Blvd &amp; Oakland Rd NE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6556629,42.0154839</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 35th St &amp; Oakland Rd  NE</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6565254,42.0140245</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 35th St &amp; Prairie Dr NE</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6524989,42.013913</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Prairie Dr &amp; Center St NE</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.652452,42.0121</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Prairie Dr &amp; 32nd St NE</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6524275,42.010222</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Prairie Dr &amp; 30th St NE</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6529725,42.008435</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Prairie Dr &amp; 29th St NE</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6529539,42.0066209</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Prairie Dr &amp; 27th St NE</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6538687,42.0046519</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 27th St &amp; Elmhurst Dr NE</name>
+      <description> grass - no sidewalk</description>
+      <Point>
+        <coordinates>-91.6546625,42.0043971</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Elmhurst Dr &amp; Hazel Dr NE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6551651,42.0028409</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Elmhurst Dr &amp; K Ave NE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6544634,42.0003632</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Elmhurst Dr &amp; J Ave NE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6543031,41.9993803</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 17th St &amp; I Ave NE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6542864,41.9973939</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 17th St &amp; F Ave NE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6536738,41.9953815</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 17th St &amp; D Ave NE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6520159,41.9937</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 17th St &amp; B Ave NE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.650284,41.992031</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> B Ave &amp; 16th St NE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6520649,41.9910319</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> B Ave &amp; 15th St NE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6540311,41.9898864</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 15th St &amp; 1st Ave NE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6522867,41.9881595</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 15th St &amp; 2nd Ave SE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6514103,41.9872751</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 15th St &amp; Bever Ave SE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6505009,41.9847399</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 15th St &amp; 5th Ave SE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.650512,41.982645</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 15th St &amp; 7th Ave SE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.650471,41.98061</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 15th St &amp; Mt Vernon Rd SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6495893,41.977418</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 8th Ave &amp; 8th St SE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.655993,41.9766676</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 8th Ave &amp; 7th St SE</name>
+      <description> corner sidewalk</description>
+      <Point>
+        <coordinates>-91.6570995,41.9760405</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 8th Ave &amp; 5th St SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>-91.6593006,41.97477</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> 2nd St &amp; 9th Ave SE</name>
+      <description> grass to sidewalk</description>
+      <Point>
+        <coordinates>-91.6618346,41.972032</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Lot 44 SE</name>
+      <description> concrete pad</description>
+      <Point>
+        <coordinates>,</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
