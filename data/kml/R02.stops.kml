@@ -1,7 +1,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>Cedar Rapids Transit</name>
-    <description>Cedar Rapids Transit - Route R02</description>
+    <description>Cedar Rapids Transit - R02 Stops</description>
     <Placemark>
       <name> Lot 44 SE</name>
       <description> concrete pad</description>
