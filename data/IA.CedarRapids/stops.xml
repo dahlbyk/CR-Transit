@@ -2258,6 +2258,8 @@
 		<State>IA</State>
 		<Description> concrete pad</Description>
 		<Mile>12.4</Mile>
+		<Latitude>41.9697953829611</Latitude>
+		<Longitude>-91.660023271759</Longitude>
 	</Stop>
 	<Stop>
 		<Route>R03</Route>
@@ -3465,6 +3467,8 @@
 		<State>IA</State>
 		<Description> concrete pad</Description>
 		<Mile>0</Mile>
+		<Latitude>41.9697953829611</Latitude>
+		<Longitude>-91.660023271759</Longitude>
 	</Stop>
 	<Stop>
 		<Route>R04</Route>
@@ -4639,6 +4643,8 @@
 		<State>IA</State>
 		<Description> concrete pad</Description>
 		<Mile>14.1</Mile>
+		<Latitude>41.9697953829611</Latitude>
+		<Longitude>-91.660023271759</Longitude>
 	</Stop>
 	<Stop>
 		<Route>R05B</Route>
@@ -4649,6 +4655,8 @@
 		<State>IA</State>
 		<Description> concrete pad</Description>
 		<Mile>0</Mile>
+		<Latitude>41.9697953829611</Latitude>
+		<Longitude>-91.660023271759</Longitude>
 	</Stop>
 	<Stop>
 		<Route>R05B</Route>
@@ -6137,6 +6145,8 @@
 		<State>IA</State>
 		<Description> concrete pad</Description>
 		<Mile>20.5</Mile>
+		<Latitude>41.9697953829611</Latitude>
+		<Longitude>-91.660023271759</Longitude>
 	</Stop>
 	<Stop>
 		<Route>R05N</Route>
@@ -7738,6 +7748,8 @@
 		<State>IA</State>
 		<Description> concrete pad</Description>
 		<Mile>21.5</Mile>
+		<Latitude>41.9697953829611</Latitude>
+		<Longitude>-91.660023271759</Longitude>
 	</Stop>
 	<Stop>
 		<Route>R05S</Route>
@@ -7748,6 +7760,8 @@
 		<State>IA</State>
 		<Description> concrete pad</Description>
 		<Mile>0</Mile>
+		<Latitude>41.9697953829611</Latitude>
+		<Longitude>-91.660023271759</Longitude>
 	</Stop>
 	<Stop>
 		<Route>R05S</Route>
@@ -9309,6 +9323,8 @@
 		<State>IA</State>
 		<Description> concrete pad</Description>
 		<Mile>20.2</Mile>
+		<Latitude>41.9697953829611</Latitude>
+		<Longitude>-91.660023271759</Longitude>
 	</Stop>
 	<Stop>
 		<Route>R06</Route>
@@ -9319,6 +9335,8 @@
 		<State>IA</State>
 		<Description> concrete pad</Description>
 		<Mile>0</Mile>
+		<Latitude>41.9697953829611</Latitude>
+		<Longitude>-91.660023271759</Longitude>
 	</Stop>
 	<Stop>
 		<Route>R06</Route>
@@ -10433,6 +10451,8 @@
 		<State>IA</State>
 		<Description> concrete pad</Description>
 		<Mile>14.9</Mile>
+		<Latitude>41.9697953829611</Latitude>
+		<Longitude>-91.660023271759</Longitude>
 	</Stop>
 	<Stop>
 		<Route>R07</Route>
@@ -10443,6 +10463,8 @@
 		<State>IA</State>
 		<Description> concrete pad</Description>
 		<Mile>0</Mile>
+		<Latitude>41.9697953829611</Latitude>
+		<Longitude>-91.660023271759</Longitude>
 	</Stop>
 	<Stop>
 		<Route>R07</Route>
@@ -11279,6 +11301,8 @@
 		<State>IA</State>
 		<Description> concrete pad</Description>
 		<Mile>14.5</Mile>
+		<Latitude>41.9697953829611</Latitude>
+		<Longitude>-91.660023271759</Longitude>
 	</Stop>
 	<Stop>
 		<Route>R08</Route>
@@ -12625,6 +12649,8 @@
 		<State>IA</State>
 		<Description> concrete pad</Description>
 		<Mile>0</Mile>
+		<Latitude>41.9697953829611</Latitude>
+		<Longitude>-91.660023271759</Longitude>
 	</Stop>
 	<Stop>
 		<Route>R09</Route>
@@ -13734,6 +13760,9 @@
 		<State>IA</State>
 		<Description> concrete pad</Description>
 		<Mile>13.5</Mile>
+		<Mile>0</Mile>
+		<Latitude>41.9697953829611</Latitude>
+		<Longitude>-91.660023271759</Longitude>
 	</Stop>
 	<Stop>
 		<Route>R10</Route>
@@ -13744,6 +13773,8 @@
 		<State>IA</State>
 		<Description> concrete pad</Description>
 		<Mile>0</Mile>
+		<Latitude>41.9697953829611</Latitude>
+		<Longitude>-91.660023271759</Longitude>
 	</Stop>
 	<Stop>
 		<Route>R10</Route>
@@ -14742,6 +14773,8 @@
 		<State>IA</State>
 		<Description> concrete pad</Description>
 		<Mile>0</Mile>
+		<Latitude>41.9697953829611</Latitude>
+		<Longitude>-91.660023271759</Longitude>
 	</Stop>
 	<Stop>
 		<Route>R11</Route>
@@ -15641,6 +15674,8 @@
 		<State>IA</State>
 		<Description> concrete pad</Description>
 		<Mile>19.2</Mile>
+		<Latitude>41.9697953829611</Latitude>
+		<Longitude>-91.660023271759</Longitude>
 	</Stop>
 	<Stop>
 		<Route>R12</Route>
@@ -15651,6 +15686,8 @@
 		<State>IA</State>
 		<Description> concrete pad</Description>
 		<Mile>0</Mile>
+		<Latitude>41.9697953829611</Latitude>
+		<Longitude>-91.660023271759</Longitude>
 	</Stop>
 	<Stop>
 		<Route>R12</Route>
@@ -16802,5 +16839,7 @@
 		<State>IA</State>
 		<Description> concrete pad</Description>
 		<Mile>13.3</Mile>
+		<Latitude>41.9697953829611</Latitude>
+		<Longitude>-91.660023271759</Longitude>
 	</Stop>
 </Stops>

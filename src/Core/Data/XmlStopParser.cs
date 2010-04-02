@@ -21,8 +21,8 @@ namespace Transit.Core.Data
                    State = (string)stop.Element("State"),
                    Description = (string)stop.Element("Description"),
                    Mile = (decimal?)stop.Element("Mile"),
-                   Latitude = (decimal?)stop.Element("Latitude"),
-                   Longitude = (decimal?)stop.Element("Longitude"),
+                   Latitude = (decimal)stop.Element("Latitude"),
+                   Longitude = (decimal)stop.Element("Longitude"),
                    PostalCode = (string)stop.Element("PostalCode")
                }
                group routeStop by route;

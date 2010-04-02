@@ -16,7 +16,8 @@ namespace Transit.Core.Data
                    Id = (string)route.Element("Id"),
                    Name = (string)route.Element("Name"),
                    Description = (string)route.Element("Description"),
-                   Direction = (string)route.Element("Direction")
+                   Direction = (string)route.Element("Direction"),
+                   Color = (string)route.Element("Color")
                };
 
             return routes.ToDictionary(r => r.Id);

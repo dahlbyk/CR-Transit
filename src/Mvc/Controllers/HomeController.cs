@@ -25,6 +25,16 @@ namespace Transit.Mvc.Controllers
             return View(model);
         }
 
+        public ActionResult Routes()
+        {
+            var model = new HomeModel
+            {
+                Routes = routeRepository.GetRoutes().OrderBy(r => r.Id)
+            };
+
+            return View(model);
+        }
+
         //NOTE: No need to specify an About action since empty actions are inferred.
     }
 }
