@@ -6,7 +6,7 @@
       <name> Lot 44 SE</name>
       <description> concrete pad</description>
       <Point>
-        <coordinates>,</coordinates>
+        <coordinates>-91.660023271759,41.9697953829611</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -643,7 +643,7 @@
       <name> Lot 44 SE</name>
       <description> concrete pad</description>
       <Point>
-        <coordinates>,</coordinates>
+        <coordinates>-91.660023271759,41.9697953829611</coordinates>
       </Point>
     </Placemark>
   </Document>
