@@ -1,9 +1,9 @@
 using System.Linq;
 using System.Web.Mvc;
 using Transit.Core.Data;
-using Transit.Mvc.Models;
+using Transit.Web.Models;
 
-namespace Transit.Mvc.Controllers
+namespace Transit.Web.Controllers
 {
     [HandleError]
     public class HomeController : Controller

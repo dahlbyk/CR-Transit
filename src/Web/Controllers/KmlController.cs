@@ -1,11 +1,10 @@
-using System;
 using System.Linq;
 using System.Text;
 using System.Web.Mvc;
 using System.Xml.Linq;
 using Transit.Core.Data;
 
-namespace Transit.Mvc.Controllers
+namespace Transit.Web.Controllers
 {
     public class KmlController : Controller
     {

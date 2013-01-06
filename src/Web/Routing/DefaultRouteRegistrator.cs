@@ -1,9 +1,9 @@
-namespace Transit.Mvc.Routing
-{
-    using System.Web.Mvc;
-    using System.Web.Routing;
-    using MvcTurbine.Routing;
+using System.Web.Mvc;
+using System.Web.Routing;
+using MvcTurbine.Routing;
 
+namespace Transit.Web.Routing
+{
     public class DefaultRouteRegistrator : IRouteRegistrator
     {
         public void Register(RouteCollection routes)

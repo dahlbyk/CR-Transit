@@ -71,10 +71,6 @@
       <Project>{BF8B697E-F18D-44CF-87E2-FD73224E1784}</Project>
       <Name>Core</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\Mvc\Mvc.csproj">
-      <Project>{86A3BD36-9182-4632-A889-A92FBD440527}</Project>
-      <Name>Mvc</Name>
-    </ProjectReference>
     <ProjectReference Include="..\..\Web\Web.csproj">
       <Project>{ed7b13fe-1725-4671-bce4-0736e527cf66}</Project>
       <Name>Web</Name>

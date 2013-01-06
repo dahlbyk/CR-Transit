@@ -1,8 +1,6 @@
-﻿using System;
-using MvcTurbine.ComponentModel;
-using Transit.Core.Data;
+﻿using MvcTurbine.ComponentModel;
 
-namespace Transit.Mvc.Registration
+namespace Transit.Web.Registration
 {
     public class ServiceRegistration : IServiceRegistration
     {

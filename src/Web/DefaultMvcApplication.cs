@@ -1,9 +1,9 @@
-namespace Transit.Mvc
-{
-    using MvcTurbine.ComponentModel;
-    using MvcTurbine.Web;
-    using Transit.Mvc.Registration;
+using MvcTurbine.ComponentModel;
+using MvcTurbine.Web;
+using Transit.Web.Registration;
 
+namespace Transit.Web
+{
     public class DefaultMvcApplication : TurbineApplication
     {
         //NOTE: You want to hit this piece of code only once.

@@ -1,6 +1,6 @@
 using MvcTurbine.StructureMap;
 
-namespace Transit.Mvc.Registration
+namespace Transit.Web.Registration
 {
     public class ServiceLocator : StructureMapServiceLocator
     {

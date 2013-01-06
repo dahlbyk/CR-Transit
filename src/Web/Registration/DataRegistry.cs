@@ -2,7 +2,7 @@
 using Transit.Core.Data;
 using Transit.Core.Models;
 
-namespace Transit.Mvc.Registration
+namespace Transit.Web.Registration
 {
     public class DataRegistry : Registry
     {

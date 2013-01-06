@@ -1,8 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using Transit.Core.Models;
 
-namespace Transit.Mvc.Models
+namespace Transit.Web.Models
 {
     public class HomeModel
     {

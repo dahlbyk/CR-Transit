@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{8EFF7CA8-C9EB-4847-ABCF-D49BBF669312}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvc", "Mvc\Mvc.csproj", "{86A3BD36-9182-4632-A889-A92FBD440527}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "Web\Web.csproj", "{ED7B13FE-1725-4671-BCE4-0736E527CF66}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{BF8B697E-F18D-44CF-87E2-FD73224E1784}"
@@ -19,10 +17,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{86A3BD36-9182-4632-A889-A92FBD440527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{86A3BD36-9182-4632-A889-A92FBD440527}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{86A3BD36-9182-4632-A889-A92FBD440527}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{86A3BD36-9182-4632-A889-A92FBD440527}.Release|Any CPU.Build.0 = Release|Any CPU
 		{ED7B13FE-1725-4671-BCE4-0736E527CF66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{ED7B13FE-1725-4671-BCE4-0736E527CF66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED7B13FE-1725-4671-BCE4-0736E527CF66}.Release|Any CPU.ActiveCfg = Release|Any CPU

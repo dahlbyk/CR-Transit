@@ -1,13 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Web;
+﻿using System.Linq;
 using System.Web.Mvc;
 using Transit.Core.Data;
-using System.Xml.Linq;
 
-namespace Transit.Mvc.Controllers
+namespace Transit.Web.Controllers
 {
     public class DataController : Controller
     {
