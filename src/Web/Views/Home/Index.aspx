@@ -8,9 +8,9 @@
     <ul id="routes"><% foreach (var route in ViewData.Model.Routes)
            { %>
         <li>
-            <input type="checkbox" title="<%= route.Name %> Route" class="route" value="http://github.com/dahlbyk/CR-Transit/raw/master/data/kml/<%= route.Id%>.route.kml" />
-            <input type="checkbox" title="<%= route.Name %> Stops" class="stops" value="http://github.com/dahlbyk/CR-Transit/raw/master/data/kml/<%= route.Id%>.stops.kml" />
-            <a href="http://github.com/dahlbyk/CR-Transit/raw/master/data/kml/<%= route.Id%>.route.kml"><%= route.Id%>: <%= route.Description%></a>
+            <input type="checkbox" title="<%= route.Name %> Route" class="route" value="http://github.com/dahlbyk/CR-Transit/raw/data/data/kml/<%= route.Id%>.route.kml" />
+            <input type="checkbox" title="<%= route.Name %> Stops" class="stops" value="http://github.com/dahlbyk/CR-Transit/raw/data/data/kml/<%= route.Id%>.stops.kml" />
+            <a href="http://github.com/dahlbyk/CR-Transit/raw/data/data/kml/<%= route.Id%>.route.kml"><%= route.Id%>: <%= route.Description%></a>
         </li><%
         } %>
     </ul>
