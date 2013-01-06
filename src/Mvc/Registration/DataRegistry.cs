@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using StructureMap.Configuration.DSL;
+﻿using StructureMap.Configuration.DSL;
 using Transit.Core.Data;
 using Transit.Core.Models;
 
@@ -16,6 +12,7 @@ namespace Transit.Mvc.Registration
             {
                 x.AssemblyContainingType<RouteSummary>();
                 x.WithDefaultConventions();
+                x.ExcludeNamespace("NewRelic");
             });
             ForRequestedType<IRouteRepository>().TheDefaultIsConcreteType<XmlRouteRepository>();
         }
