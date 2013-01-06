@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Xml.Linq;
 using Transit.Core.Models;
@@ -38,14 +39,21 @@ namespace Transit.Core.Data
 
         private void ParseFiles()
         {
-            XDocument routeDocument = XDocument.Load(@"J:\Dev\Transit\data\IA.CedarRapids\routes.xml");
+            var routeDocument = XDocument.Load(DataPath("routes.xml"));
             routes = routeParser.Parse(routeDocument);
 
-            XDocument stopDocument = XDocument.Load(@"J:\Dev\Transit\data\IA.CedarRapids\stops.xml");
+            var stopDocument = XDocument.Load(DataPath("stops.xml"));
             stops = stopParser.Parse(stopDocument);
 
             foreach (var route in routes.Values)
                 route.Stops = stops[route.Id];
+        }
+
+        private static string DataPath(string fileName)
+        {
+            var baseDirectory = AppDomain.CurrentDomain.BaseDirectory;
+            var path = Path.Combine(baseDirectory, @"Data\" + fileName);
+            return path;
         }
     }
 }

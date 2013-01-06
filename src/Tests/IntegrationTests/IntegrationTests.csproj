@@ -75,6 +75,10 @@
       <Project>{86A3BD36-9182-4632-A889-A92FBD440527}</Project>
       <Name>Mvc</Name>
     </ProjectReference>
+    <ProjectReference Include="..\..\Web\Web.csproj">
+      <Project>{ed7b13fe-1725-4671-bce4-0736e527cf66}</Project>
+      <Name>Web</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
