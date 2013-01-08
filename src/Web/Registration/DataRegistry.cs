@@ -14,7 +14,7 @@ namespace Transit.Web.Registration
                 x.WithDefaultConventions();
                 x.ExcludeNamespace("NewRelic");
             });
-            ForRequestedType<IRouteRepository>().TheDefaultIsConcreteType<XmlRouteRepository>();
+            For<IRouteRepository>().Use<XmlRouteRepository>();
         }
     }
 }
