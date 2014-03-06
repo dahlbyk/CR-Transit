@@ -1,4 +1,4 @@
-agency_id,route_id,shape_id,stop_sequence,stop_code,stop_name,stop_desc,stop_lat,stop_long,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding,arrival_offset,departure_offset,stop_headsign,pickup_type,drop_off_type,shape_dist_traveled
+agency_id,route_id,shape_id,stop_sequence,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding,arrival_offset,departure_offset,stop_headsign,pickup_type,drop_off_type,shape_dist_traveled
 cr_transit,R01,S01,1,,Ground Transportation Center,concrete pad,41.97541986,-91.66662092,,,,,,,0:00,0:00,,,,
 cr_transit,R01,S01,2,,2nd Ave Bridge @ City Hall,concrete pad,41.97711492,-91.66933234,,,,,,,,,,,,
 cr_transit,R01,S01,3,,2nd Ave Bridge @ Vets. Memorial,concrete pad,41.97645829,-91.67062766,,,,,,,,,,,,
