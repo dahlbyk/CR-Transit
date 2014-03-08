@@ -3,3 +3,4 @@ obj/
 *.user
 *.suo
 gtfs/feed_*
+validation-results.html
