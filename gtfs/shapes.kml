@@ -7,7 +7,7 @@
   <Folder id="FeatureLayer0">
     <name>Transit_Routes_Simplified_022414</name>
     <Snippet></Snippet>
-    <Placemark id="ID_00000">
+    <Placemark id="S01">
       <name>Route 1</name>
       <Snippet></Snippet>
       <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -78,7 +78,7 @@
         </LineString>
       </MultiGeometry>
     </Placemark>
-    <Placemark id="ID_00001">
+    <Placemark id="S02">
       <name>Route 2</name>
       <Snippet></Snippet>
       <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -165,7 +165,7 @@
         </LineString>
       </MultiGeometry>
     </Placemark>
-    <Placemark id="ID_00002">
+    <Placemark id="S03">
       <name>Route 3</name>
       <Snippet></Snippet>
       <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -244,7 +244,7 @@
         </LineString>
       </MultiGeometry>
     </Placemark>
-    <Placemark id="ID_00003">
+    <Placemark id="S04">
       <name>Route 4</name>
       <Snippet></Snippet>
       <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -323,7 +323,7 @@
         </LineString>
       </MultiGeometry>
     </Placemark>
-    <Placemark id="ID_00004">
+    <Placemark id="S05B">
       <name>Route 5B</name>
       <Snippet></Snippet>
       <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -450,7 +450,7 @@
         </LineString>
       </MultiGeometry>
     </Placemark>
-    <Placemark id="ID_00005">
+    <Placemark id="S05N">
       <name>Route 5N</name>
       <Snippet></Snippet>
       <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -537,7 +537,7 @@
         </LineString>
       </MultiGeometry>
     </Placemark>
-    <Placemark id="ID_00006">
+    <Placemark id="S05S">
       <name>Route 5S</name>
       <Snippet></Snippet>
       <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -628,7 +628,7 @@
         </LineString>
       </MultiGeometry>
     </Placemark>
-    <Placemark id="ID_00007">
+    <Placemark id="S06">
       <name>Route 6</name>
       <Snippet></Snippet>
       <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -707,7 +707,7 @@
         </LineString>
       </MultiGeometry>
     </Placemark>
-    <Placemark id="ID_00008">
+    <Placemark id="S07">
       <name>Route 7</name>
       <Snippet></Snippet>
       <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -778,7 +778,7 @@
         </LineString>
       </MultiGeometry>
     </Placemark>
-    <Placemark id="ID_00009">
+    <Placemark id="S08">
       <name>Route 8</name>
       <Snippet></Snippet>
       <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -853,7 +853,7 @@
         </LineString>
       </MultiGeometry>
     </Placemark>
-    <Placemark id="ID_00010">
+    <Placemark id="S07D">
       <name>Route 7</name>
       <Snippet></Snippet>
       <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -912,7 +912,7 @@
         </LineString>
       </MultiGeometry>
     </Placemark>
-    <Placemark id="ID_00011">
+    <Placemark id="S09">
       <name>Route 9</name>
       <Snippet></Snippet>
       <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -983,7 +983,7 @@
         </LineString>
       </MultiGeometry>
     </Placemark>
-    <Placemark id="ID_00012">
+    <Placemark id="S10">
       <name>Route 10</name>
       <Snippet></Snippet>
       <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -1054,7 +1054,7 @@
         </LineString>
       </MultiGeometry>
     </Placemark>
-    <Placemark id="ID_00013">
+    <Placemark id="S11">
       <name>Route 11</name>
       <Snippet></Snippet>
       <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -1129,7 +1129,7 @@
         </LineString>
       </MultiGeometry>
     </Placemark>
-    <Placemark id="ID_00014">
+    <Placemark id="S12">
       <name>Route 12</name>
       <Snippet></Snippet>
       <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
